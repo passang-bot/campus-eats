@@ -4,3 +4,7 @@
   "ignore": ["public/"],
   "exec": "node app.js"
 }
+"scripts": {
+  "start": "node server.js",
+  "dev": "nodemon server.js"
+}
